@@ -1,5 +1,5 @@
 /*  Example Program Simple Class Example Program In C++
-    little drops @ thiyagaraaj.com this is vijay this is added
+    little drops @ thiyagaraaj.com this is vijay this is added second time
 
     Coded By:THIYAGARAAJ MP                             */
 
@@ -38,3 +38,6 @@ int main()
     getch();
     return 0;
 }
+This is for rel_1.0 branch
+
+This second commit on rel_1.0 branch
