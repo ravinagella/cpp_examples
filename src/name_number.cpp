@@ -1,7 +1,7 @@
 /*  Example Program Simple Class Example Program In C++
-    little drops @ thiyagaraaj.com
+    little drops @ thiyagaraaj.com this is vijay
 
-    Coded By:THIYAGARAAJ MP     This is for testing from ravindra                        */
+    Coded By:THIYAGARAAJ MP     This is for testing from ravindra   abcd                     */
 
 // Header Files
 #include <iostream>
